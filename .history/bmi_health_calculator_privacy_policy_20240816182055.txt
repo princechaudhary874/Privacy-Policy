@@ -1,0 +1,38 @@
+Privacy Policy for [Your App Name]
+
+1. Introduction
+
+Purpose: This Privacy Policy explains how [Your Company Name] ("we," "us," or "our") collects, uses, discloses, and protects the information you provide when using the [Your App Name] ("App").
+Scope: This policy applies to all users of the App.
+2. Information We Collect
+
+Personal Data: We do not collect personally identifiable information (PII) such as your name, email address, or contact information.
+Health Data: The App may collect non-identifiable health-related information, such as your height, weight, and BMI calculation, to provide the primary service of the App.
+Device Information: We may collect information about your device, such as the type of device, operating system, and app usage data, to improve app performance and user experience.
+3. How We Use the Information
+
+Health Calculations: The health-related data you input is used solely for calculating your BMI and providing health insights.
+App Improvement: Device and usage data may be used to improve the App's performance, user experience, and to troubleshoot issues.
+Anonymized Data: Any health-related data may be anonymized and used for research or statistical purposes, but it will not be linked to any personally identifiable information.
+4. Data Sharing and Disclosure
+
+Third-Party Services: We do not share your personal data with third parties, except when necessary for app functionality, such as with analytics services that help us improve the App.
+Legal Requirements: We may disclose your information if required by law or in response to valid requests by public authorities.
+5. Data Security
+
+Protection Measures: We take reasonable steps to protect your data from unauthorized access, use, or disclosure through encryption and secure storage practices.
+Data Retention: Health data inputted by the user is not stored on our servers; it remains on your device. If data is stored for app functionality, it will be retained only as long as necessary to provide the service.
+6. Your Rights
+
+Data Access: You have the right to access the data you have provided within the App.
+Data Deletion: You can delete your data from the App at any time by following the in-app instructions or contacting us at [Contact Information].
+Opt-Out: You can opt-out of data collection by discontinuing use of the App.
+7. Changes to This Policy
+
+Updates: We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the "Last Updated" date at the top of this policy.
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [Your Email Address].
+9. Consent
+
+By using the App, you consent to our Privacy Policy and agree to its terms.
